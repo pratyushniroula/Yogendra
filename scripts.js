@@ -1,14 +1,14 @@
 const games = [
-    { title: "Card Matching game", description: "", link: "game1.html" },
-    { title: "Whack A Mole", description: "",link: "game2.html"},
-    { title: "Arrow Strike", description: "", link: "game3.html" },
-    { title: "Road Rusher", description: "", link: "game4.html" },
-    { title: "Snake Game", description: "", link: "game5.html" },
-    { title: "Flappy Bird", description: "", link: "game6.html" },
-    { title: "Maze Tilt Master", description: "", link: "game7.html" },
-    { title: "Table Tennis", description: "", link: "game8.html" },
-    { title: "Bounce Battle", description: "", link: "game9.html" },
-    { title: "Bubble Blast", description: "", link: "game10.html" }
+    { title: "Card Matching game", description: "", link: "Game1.html" },
+    { title: "Whack A Mole", description: "",link: "Game2.html"},
+    { title: "Arrow Strike", description: "", link: "Game3.html" },
+    { title: "Road Rusher", description: "", link: "Game4.html" },
+    { title: "Snake Game", description: "", link: "Game5.html" },
+    { title: "Flappy Bird", description: "", link: "Game6.html" },
+    { title: "Maze Tilt Master", description: "", link: "Game7.html" },
+    { title: "Table Tennis", description: "", link: "Game8.html" },
+    { title: "Bounce Battle", description: "", link: "Game9.html" },
+    { title: "Bubble Blast", description: "", link: "Game10.html" }
 ];
 
 function displayGames() {
